@@ -1,0 +1,2 @@
+json_key_file("key.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.hire_a_drone_pilot_45241") # e.g. com.krausefx.app
